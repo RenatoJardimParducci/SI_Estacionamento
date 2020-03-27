@@ -1,1 +1,3 @@
-# Guarde nesta pasta, os documentos sobre o limite de verba do projeto e regras gerenciais a serem seguidas
+# Guarde nesta pasta, os documentos sobre:
+# -Limite de verba do projeto
+# -Regras gerenciais a serem seguidas
